@@ -5,10 +5,6 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=mluizaa00&count_private=true&show_icons=true&hide_title=true&hide=stars" />
 
 
-- 🤝 Always open for projects
-- 👑 Java development
-
-
 <br>
 
 <div align="left">
