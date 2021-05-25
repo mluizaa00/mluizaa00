@@ -4,6 +4,16 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=mluizaa00&count_private=true&show_icons=true&hide_title=true&hide=stars" />
 
+**Current**
+- Working as a Bukkit developer on KromaticMC
+
+**Experiences**
+
+- MongoDB, MySQL
+- Redis, RabbitMQ and learning Kafka
+- Spigot/Paper/Bungeecord
+- GRPC and Netty
+- WebSockets
 
 <br>
 
