@@ -10,10 +10,10 @@
 **Experiences**
 
 - MongoDB, MySQL
-- Redis, RabbitMQ and learning Kafka
-- Spigot/Paper/Bungeecord
+- Redis, RabbitMQ and Kafka
 - GRPC and Netty
 - WebSockets
+- Spigot/Paper/Bungeecord
 
 <br>
 
