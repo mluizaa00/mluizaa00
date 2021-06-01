@@ -14,7 +14,7 @@
 </p>
 
 **Current**
-- Working as a Bukkit developer on KromaticMC
+- Working on HylexMC and KromaticMC
 
 **Experiences**
 
