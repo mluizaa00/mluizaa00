@@ -13,13 +13,10 @@
   </a>
 </p>
 
-**Current**
-- Working on HylexMC and KromaticMC
-
 **Experiences**
 
-- MongoDB, MySQL
-- Redis, RabbitMQ and Kafka
-- GRPC and Netty
-- WebSockets
-- Spigot/Paper/Bungeecord
+- Languages: Java and learning Rust
+- Databases: MongoDB, MySQL, Redis
+- Messengers: RabbitMQ and Kafka
+- Network & Protocol: GRPC, Netty and WebSockets
+- Frameworks: Spigot/Paper/Bungeecord
