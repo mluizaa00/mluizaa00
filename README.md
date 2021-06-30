@@ -17,6 +17,6 @@
 
 - Languages: Java and currently learning Rust
 - Databases: MongoDB, MySQL, Redis
-- Messengers: RabbitMQ and Kafka
-- Network & Protocol: GRPC, Netty and WebSockets
+- Messengers: RabbitMQ
+- Network & Protocol: GRPC and Netty
 - Frameworks: Spigot/Paper/Bungeecord
