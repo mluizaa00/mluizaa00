@@ -9,5 +9,5 @@
 - Languages: Java and currently learning Python
 - Databases: MongoDB, MySQL, Redis
 - Messengers: RabbitMQ
-- Network & Protocol: GRPC and Netty
+- Network & Protocol: Netty and learning GRPC
 - Frameworks: Spigot/Paper/Bungeecord
