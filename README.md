@@ -21,3 +21,5 @@ My main focus at learning currently is network structures using mainly Netty as 
 - Portuguese: Native language
 - English: Fluent (C2 Level according to EFSET)
 - Spanish: Basic/Intermediate (B1 Level)
+
+My current language goal is to train my English speaking and start learning Dutch.
