@@ -16,6 +16,7 @@ My main focus at learning currently is network structures using mainly Netty as 
 - Databases: MongoDB, MySQL, Redis.
 - Messengers: RabbitMQ.
 - Network & Protocol: Netty and learning GRPC.
+- CI: Jenkins
 
 #### Languages
 - Portuguese: Native language
