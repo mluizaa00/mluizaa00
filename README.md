@@ -8,7 +8,7 @@
 
 I'm currently working as a Java developer since 3 years ago, with a focus on operations and strategies, structuring areas and processes, developing and implanting new technologies in low and middle-size companies.
 
-My main focus at learning currently is network structures using mainly Netty as it's protocol framework and learning about Kafka message brokers.
+My main focus at learning currently is network structures using Netty as it's framework and learning about Kubernates.
 
 #### Experiences
 
