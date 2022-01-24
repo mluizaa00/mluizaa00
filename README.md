@@ -6,17 +6,17 @@
 
 ### Introduction
 
-I'm currently working as a Java developer since 3 years ago, with a focus on operations and strategies, structuring areas and processes, developing and implanting new technologies in low and middle-size companies.
+I'm currently working as a Java developer since 3 years ago, with a focus on operations and strategies, structuring areas and processes, developing and implanting new technologies in low size companies.
 
-My main focus at learning currently is network structures using Netty as it's framework and learning about Kubernates.
+My main focus at learning currently is web architecture using SpringBoot mainly.
 
 #### Experiences
 
-- Programming languages: Java and currently learning Python.
+- Programming languages: Java.
 - Databases: MongoDB, MySQL, Redis.
 - Messengers: RabbitMQ.
 - Network & Protocol: Netty.
-- DevOps: Jenkins and learning Kubernates.
+- DevOps: Jenkins and Kubernates.
 
 #### Languages
 - Portuguese: Native language
