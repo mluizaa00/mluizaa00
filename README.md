@@ -6,7 +6,7 @@
 
 ### Introduction
 
-I'm currently working as a Java developer since 3 years ago, with a focus on operations and strategies, structuring areas and processes, developing and implanting new technologies in low size companies.
+I'm currently working as a Java developer since 2 years ago, with a focus on operations and strategies, structuring areas and processes, developing and implanting new technologies in low size companies.
 
 My main focus at learning currently is web architecture using SpringBoot mainly.
 
