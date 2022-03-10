@@ -10,6 +10,6 @@ Hello, I'm Luiza! I'm a passionated and self-taught developer since I was 14 yea
 
 - Programming languages: Java.
 - Databases: MongoDB, MySQL, Redis.
-- Messengers: RabbitMQ.
+- Messengers: Redis.
 - Network & Protocol: Netty.
 - DevOps: Jenkins and Kubernates.
