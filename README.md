@@ -4,7 +4,7 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=mluizaa00&count_private=true&show_icons=true&hide_title=true&theme=dark"/>
 
-Hello, I'm Luiza! I'm a passionated and self-taught developer since I was 14 years old. Currently I use Java or Rust for creating network structures, using web frameworks and such things. Feel free to reach out!
+Hello, I'm Luiza! I'm a passionated and self-taught developer since I was 14 years old. Currently I use Java as my main programming language, and I'm learning more about networks using Rust. Feel free to reach out!
 
 #### Experiences
 
