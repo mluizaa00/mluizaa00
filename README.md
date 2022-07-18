@@ -10,15 +10,15 @@ Take a look at some of my open-source work on the pinned repositories!
 
 ## Experiences
 
-- Programming languages: **Java, Kotlin.**
-- Frameworks
-   - Web: Spring **(Data, Security, Webflux)**
-   - Testing: JUnit, Mockito
-- Databases
-   - NoSQL: MongoDB and Redis.
-   - SQL: MySQL.
-- Messengers: Redis, RabbitMQ.
-- Network & Protocol: Netty.
-- Infrastructure:
-   - DevOps: Jenkins and Kubernates.
-   - Cloud: GCP
+- **Programming languages**: Java, Kotlin.
+- **Frameworks**:
+   - **Web**: Spring **(Data, Security, Webflux)**
+   - **Test**: JUnit, Mockito
+- **Databases**:
+   - **NoSQL**: MongoDB and Redis.
+   - **SQL**: MySQL.
+- **Messengers**: Redis, RabbitMQ.
+- **Network & Protocol**: Netty.
+- **Infrastructure**:
+   - **DevOps**: Jenkins and Kubernates.
+   - **Cloud**: GCP
