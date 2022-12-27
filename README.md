@@ -2,9 +2,9 @@
 
 ## Introduction
 
-Hello, I'm Luiza! I'm a passionated and self-taught developer since I was 14 years old. I started as a freelancer Java Developer for 2 years and then I started working along with Kotlin on [Looqbox](https://www.looqbox.com/).
+Hello! My name is Luiza. I'm a passionated and self-taught developer since I was 14 years old. I started as a freelancer Java Developer for two years, and then started working using Kotlin at [Looqbox](https://www.looqbox.com/).
 
-In the meantime, I work on a few open-source projects for [Cefoler](https://github.com/cefoler), we have projects related to Databases **(NoSQL, SQL)**, Netty TCP servers, API for games, and other tools that assist with development.
+In the meantime, I'm working on a few open-source projects for [Cefoler](https://github.com/cefoler). We have projects related to Databases **(NoSQL, SQL)**, Netty TCP servers, API for games, and other tools that assist with development.
 
 Take a look at some of my open-source work on the pinned repositories!
 
@@ -13,7 +13,7 @@ Take a look at some of my open-source work on the pinned repositories!
 - **Programming languages**: Java, Kotlin.
 - **Frameworks**:
    - **Web**: Spring **(Data, Security, Webflux)**
-   - **Test**: JUnit, Mockito
+   - **Test**: JUnit, Mockito.
 - **Databases**:
    - **NoSQL**: MongoDB and Redis.
    - **SQL**: MySQL.
@@ -21,4 +21,4 @@ Take a look at some of my open-source work on the pinned repositories!
 - **Network & Protocol**: Netty.
 - **Infrastructure**:
    - **DevOps**: Jenkins and Kubernates.
-   - **Cloud**: GCP
+   - **Cloud**: GCP.
