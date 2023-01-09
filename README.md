@@ -1,5 +1,3 @@
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=mluizaa00&count_private=true&show_icons=true&hide_title=true&theme=dark"/>
-
 ## Introduction
 
 Hello! My name is Luiza. I'm a passionated and self-taught developer since I was 14 years old. I started as a freelancer Java Developer for two years, and then started working using Kotlin at [Looqbox](https://www.looqbox.com/).
