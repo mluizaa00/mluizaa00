@@ -6,17 +6,17 @@ Dê uma olhada em alguns do meu trabalho de código aberto nos repositórios fix
 
 ## Experiência
 
-- **Linguagens de programação**: Java e Kotlin
-- **Frameworks**:
-   - **Web**: Springboot **(Data, Security, Webflux)**
-   - **Programação funcional**: Arrow 
+- **Linguagens de programação**: Java e Kotlin (avançado), com conhecimentos em Python e Javascript.
+- **Ferramentas e Frameworks**:
+   - **Programação Web**: Springboot **(Data, Security, Webflux)**
+   - **Programação funcional**: Arrow Lib
    - **Testes unitários**: JUnit, Mockito
    - **Testes integrados**: Playwright
 - **Bancos de dados**:
-   - **NoSQL**: ElasticSearch, MongoDB e Redis
-   - **SQL**: BigQuery
+   - **NoSQL**: MongoDB, Redis (cache) e ElasticSearch
+   - **SQL**: BigQuery (integração com backend via API)
 - **Mensagerias**: PubSub (GCP) e RabbitMQ
-- **Rede & Protocolo**: Netty
+- **Redes & Protocolos**: Netty (servidor TCP)
 - **Infraestrutura**:
-   - **DevOps**: Jenkins, Kubernates e Nexus
+   - **DevOps**: Jenkins, Docker, Kubernates e Nexus
    - **Cloud**: GCP
