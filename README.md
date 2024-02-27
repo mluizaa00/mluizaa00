@@ -9,9 +9,9 @@ Dê uma olhada em alguns do meu trabalho de código aberto nos repositórios fix
 - **Linguagens de programação**: Java e Kotlin (avançado), com conhecimentos em Python e Javascript.
 - **Ferramentas e Frameworks**:
    - **Programação Web**: Springboot **(Data, Security, Webflux)**
-   - **Programação funcional**: Arrow Lib
+   - **Programação funcional**: [Arrow](https://arrow-kt.io/)
    - **Testes unitários**: JUnit, Mockito
-   - **Testes integrados**: Playwright
+   - **Testes integrados**: [Playwright](https://playwright.dev/)
 - **Bancos de dados**:
    - **NoSQL**: MongoDB, Redis (cache) e ElasticSearch
    - **SQL**: BigQuery (integração com backend via API)
