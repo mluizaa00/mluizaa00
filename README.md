@@ -1,23 +1,22 @@
 ## Introduction
 
-Hello! My name is Luiza. I'm a passionated and self-taught developer since I was 14 years old. I started as a freelancer Java Developer for two years, and then started working using Kotlin at [Looqbox](https://www.looqbox.com/).
+Olá! Meu nome é Luiza. Sou uma desenvolvedora autodidata e apaixonada nesse tópico desde os 14 anos. No meu início de carreira, trabalhei com a indústria de jogos, conhecida pelos seus critérios de otimização e performance, em um ambiente Java. Após isso, tive a oportunidade de trabalhar como Desenvolvedora de Software na [Looqbox](https://www.looqbox.com/), na qual adquiri diversos conhecimentos relacionados ao processamento de linguagem natural (NLP) utilizando ANTLR, e na criação de pipelines de eventos através do PubSub (GCP) para uma das etapas de processamento de dados, a de carregar os dados pós-processados.
 
-In the meantime, I'm working on a few open-source projects for [Cefoler](https://github.com/cefoler). We have projects related to Databases **(NoSQL, SQL)**, Netty TCP servers, API for games, and other tools that assist with development.
+Dê uma olhada em alguns do meu trabalho de código aberto nos repositórios fixados desse perfil!
 
-Take a look at some of my open-source work on the pinned repositories!
+## Experiência
 
-## Experiences
-
-- **Programming languages**: Java, Kotlin and Python.
+- **Linguagens de programação**: Java e Kotlin
 - **Frameworks**:
-   - **Web**: Spring **(Data, Security, Webflux)**
-   - **Functional programming**: Arrow 
-   - **Test**: JUnit, Mockito.
-- **Databases**:
-   - **NoSQL**: ElasticSearch, MongoDB and Redis.
-   - **SQL**: MySQL, BigQuery.
-- **Messengers**: PubSub, RabbitMQ and Redis.
-- **Network & Protocol**: Netty.
-- **Infrastructure**:
-   - **DevOps**: Jenkins, Kubernates and Nexus.
-   - **Cloud**: GCP.
+   - **Web**: Springboot **(Data, Security, Webflux)**
+   - **Programação funcional**: Arrow 
+   - **Testes unitários**: JUnit, Mockito
+   - **Testes integrados**: Playwright
+- **Bancos de dados**:
+   - **NoSQL**: ElasticSearch, MongoDB e Redis
+   - **SQL**: BigQuery
+- **Mensagerias**: PubSub (GCP) e RabbitMQ
+- **Rede & Protocolo**: Netty
+- **Infraestrutura**:
+   - **DevOps**: Jenkins, Kubernates e Nexus
+   - **Cloud**: GCP
