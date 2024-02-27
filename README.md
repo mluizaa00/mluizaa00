@@ -20,3 +20,10 @@ Dê uma olhada em alguns do meu trabalho de código aberto nos repositórios fix
 - **Infraestrutura**:
    - **DevOps**: Jenkins, Docker, Kubernates e Nexus
    - **Cloud**: GCP
+
+## Contato
+
+<div> 
+  <a href="mailto:taeckls@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/luizaprestes00"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</div>
