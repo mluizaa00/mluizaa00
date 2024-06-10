@@ -1,27 +1,27 @@
 ## Introduction
 
-Olá! Meu nome é Luiza. Sou uma desenvolvedora autodidata e apaixonada pela programação desde os meus 14 anos. No meu início de carreira, trabalhei com a indústria de jogos, conhecida pelos seus critérios de otimização e performance, em um ambiente Java. Após isso, tive a oportunidade de trabalhar como Desenvolvedora de Software na [Looqbox](https://www.looqbox.com/) durante 2 anos, na qual adquiri diversos conhecimentos relacionados ao processamento de linguagem natural (NLP) utilizando ANTLR, na criação de pipelines de eventos através do PubSub (GCP) para uma etapa de carregamento de dados pós-processados, e na criação de um workflow responsável pelo processamento de mensagens de auditoria (logs), com etapas de ETL como a limpeza dos dados, normalização e formatação de dados.
+Hello! My name is Luiza. I am a self-taught developer with a passion for programming since I was 14 years old. At the beginning of my career, I worked in the gaming industry, known for its optimization and performance criteria, in a Java environment. After that, I had the opportunity to work as a Software Developer at [Looqbox](https://www.looqbox.com/) for 2 years, where I acquired various skills related to natural language processing (NLP) using ANTLR, creating event pipelines through PubSub (GCP) for a post-processed data loading stage, and creating a workflow responsible for processing audit messages (logs), with ETL stages such as data cleaning, normalization, and formatting.
 
-Dê uma olhada em alguns do meu trabalho de código aberto nos repositórios fixados desse perfil!
+Take a look at some of my open-source work in the pinned repositories on this profile!
 
-## Experiência
+## Experience
 
-- **Linguagens de programação**: Java e Kotlin (avançado), com conhecimentos em Python e Javascript.
-- **Ferramentas e Frameworks**:
-   - **Programação Web**: Springboot **(Data, Security, Webflux)**
-   - **Programação funcional**: [Arrow](https://arrow-kt.io/)
-   - **Testes unitários**: JUnit, Mockito
-   - **Testes integrados**: [Playwright](https://playwright.dev/)
-- **Bancos de dados**:
-   - **NoSQL**: MongoDB, Redis (cache) e ElasticSearch
-   - **SQL**: BigQuery (integração com backend via API)
-- **Mensagerias**: PubSub (GCP) e RabbitMQ
-- **Redes & Protocolos**: Netty (servidor TCP)
-- **Infraestrutura**:
-   - **DevOps**: Jenkins, Docker, Kubernates e Nexus
+- **Programming Languages**: Advanced in Java and Kotlin, with knowledge in Python and JavaScript.
+- **Tools and Frameworks**:
+   - **Web Programming**: Spring Boot **(Data, Security, Webflux)**
+   - **Functional Programming**: [Arrow](https://arrow-kt.io/)
+   - **Unit Testing**: JUnit, Mockito
+   - **Integrated Testing**: [Playwright](https://playwright.dev/)
+- **Databases**:
+   - **NoSQL**: MongoDB, Redis (cache), and ElasticSearch
+   - **SQL**: BigQuery (backend integration via API)
+- **Messaging Systems**: PubSub (GCP) and RabbitMQ
+- **Networks & Protocols**: Netty (TCP server)
+- **Infrastructure**:
+   - **DevOps**: Jenkins, Docker, Kubernetes, and Nexus
    - **Cloud**: GCP
 
-## Contato
+## Contact
 
 <div> 
   <a href="mailto:taeckls@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
