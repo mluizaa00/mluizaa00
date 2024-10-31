@@ -23,6 +23,10 @@ Take a look at some of my open-source work in the pinned repositories on this pr
    - **DevOps**: Jenkins, Docker, Kubernetes, and Nexus
    - **Cloud**: GCP, AWS
 
+## Stats
+
+![mluizaa00 stats](https://github-readme-stats.vercel.app/api?username=mluizaa00&count_private=true&show_icons=true&theme=radical)
+
 ## Contact
 
 <div> 
