@@ -6,7 +6,7 @@ Take a look at some of my open-source work in the pinned repositories on this pr
 
 ## Experience
 
-- **Programming Languages**: Advanced in Java and Kotlin, professional knowledge in Typescript and academic knowledge in Python and JavaScript.
+- **Programming Languages**: Advanced in Java and Kotlin, professional knowledge in Typescript and academic knowledge in Python and Rust
 - **Tools and Frameworks**:
    - **Web Programming**:
       - **Java/Kotlin**: Spring Boot **(Data, Security, Webflux)**, Micronaut
