@@ -4,7 +4,7 @@ Hello! My name is Luiza, and I am a self-taught developer with a passion for sol
 
 I value collaboration and continuous learning as pillars of my work. At [Looqbox](https://looqbox.com/), I worked as a Backend Engineer for two years, combining critical analysis and creativity to develop a Parser focused on natural language processing (NLP) using Kotlin, ANTLR, and Regex. I also implemented event-driven data pipelines with GCP PubSub, optimizing ETL processes and fostering integrations between systems.
 
-Currently, as a Mid-Level Backend Software Engineer at [Caju](https://www.caju.com.br/), I strive to align technical efficiency with strategic impact. I led the creation of solutions such as Bulk Vacation and Admission Sharing, integrating backend and frontend teams with a clear vision of architecture and documentation. I restructured CI/CD pipelines, drastically reducing execution time and enhancing the development experience.
+Currently, as a Backend Software Engineer at [Caju](https://www.caju.com.br/), I strive to align technical efficiency with strategic impact. I led the creation of solutions such as Bulk Vacation and Admission Sharing, integrating backend and frontend teams with a clear vision of architecture and documentation. I restructured CI/CD pipelines, drastically reducing execution time and enhancing the development experience.
 
 My approach is guided by the pursuit of technical excellence and the development of scalable solutions, always focusing on creating a positive impact for the team and end users.
 
