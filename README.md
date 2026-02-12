@@ -4,13 +4,13 @@ Hello! My name is Luiza, and I am a self-taught developer with a passion for sol
 
 I value collaboration and continuous learning as pillars of my work. At [Looqbox](https://looqbox.com/), I worked as a Backend Engineer for two years, combining critical analysis and creativity to develop a Parser focused on natural language processing (NLP) using Kotlin, ANTLR, and Regex. I also implemented event-driven data pipelines with GCP PubSub, optimizing ETL processes and fostering integrations between systems.
 
-Currently, as a Backend Software Engineer at [Caju](https://www.caju.com.br/), in the HCM business unit, where in addition to feature development, I’m directly involved in solution design, technical decision-making, and architectural definition for the features where I take the role of feature lead. I’ve also contributed to structural initiatives, such as improving the CI/CD pipeline, and participate in the oncall rotation, which has strengthened my focus on stability, operations, and system reliability.
+Currently, as a Backend Software Engineer at [Caju](https://www.caju.com.br/), in the HCM business unit, where in addition to feature development, I’m directly involved in solution design, technical decision-making, and architectural definition for the features where I take the role of feature lead. I’ve also contributed to key structural improvements, including fixing a critical memory leak, optimizing our Kafka usage, and reducing CI/CD times, in addition to participating in the on-call rotation, which strengthened my focus on system stability and reliability.
 
 I have a very analytical, organized, and detail-oriented approach, with a strong focus on architecture, readability, maintainability, and overall technical quality. I value well-defined processes, automation, sustainable code, and scalable solutions.
 
 ## Experience
 
-- **Programming Languages**: Advanced in Java and Kotlin, professional knowledge in Typescript and Python, and academic knowledge in Rust
+- **Programming Languages**: Proficiency in Java and Kotlin, advanced knowledge in Typescript, and academic knowledge in Python
 - **Tools and Frameworks**:
    - **Web Programming**:
       - **Java/Kotlin**: Spring Boot **(Data, Security, Webflux)**, Micronaut
@@ -20,7 +20,7 @@ I have a very analytical, organized, and detail-oriented approach, with a strong
    - **Integrated Testing**: [Playwright](https://playwright.dev/)
 - **Databases**:
    - **NoSQL**: MongoDB, Redis (cache), and ElasticSearch
-   - **SQL**: BigQuery, MySQL
+   - **SQL**: BigQuery, MySQL, PostgreSQL
 - **Messaging Systems**: GCP PubSub, RabbitMQ and Kafka
 - **Networks & Protocols**: Netty (TCP server)
 - **Infrastructure**:
